@@ -21,6 +21,8 @@ namespace SemesterProjektGUI
             // Vi prøver lige igen
             // jeg håber det virker ellers græder jeg
 
+            //Hej :3
+
 
             //AAAAAA
         }
