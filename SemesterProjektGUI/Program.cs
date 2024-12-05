@@ -17,6 +17,8 @@ namespace SemesterProjektGUI
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+
+            // Jeg håber det her virker
         }
     }
 }
