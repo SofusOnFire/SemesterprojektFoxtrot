@@ -19,6 +19,7 @@ namespace SemesterProjektGUI
             Application.Run(new Form1());
 
             // Jeg håber det her virker
+            // Det gør jeg virkelig
         }
     }
 }
